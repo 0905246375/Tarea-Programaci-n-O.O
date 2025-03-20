@@ -1,0 +1,14 @@
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\obj\Debug\net8.0\Tarea Programacion O. Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\obj\Debug\net8.0\Tarea Programacion O. Objetos.AssemblyInfoInputs.cache
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\obj\Debug\net8.0\Tarea Programacion O. Objetos.AssemblyInfo.cs
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\obj\Debug\net8.0\Tarea Programacion O. Objetos.csproj.CoreCompileInputs.cache
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\bin\Debug\net8.0\Tarea Programacion O. Objetos.exe
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\bin\Debug\net8.0\Tarea Programacion O. Objetos.deps.json
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\bin\Debug\net8.0\Tarea Programacion O. Objetos.runtimeconfig.json
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\bin\Debug\net8.0\Tarea Programacion O. Objetos.dll
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\bin\Debug\net8.0\Tarea Programacion O. Objetos.pdb
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\obj\Debug\net8.0\Tarea Programacion O. Objetos.dll
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\obj\Debug\net8.0\refint\Tarea Programacion O. Objetos.dll
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\obj\Debug\net8.0\Tarea Programacion O. Objetos.pdb
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\obj\Debug\net8.0\Tarea Programacion O. Objetos.genruntimeconfig.cache
+C:\Users\tahly\Desktop\Tarea Programacion O. Objetos\obj\Debug\net8.0\ref\Tarea Programacion O. Objetos.dll
